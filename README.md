@@ -1,3 +1,3 @@
 # random-shit-bot
 
-yes
+first time using python
