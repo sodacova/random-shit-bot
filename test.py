@@ -19,6 +19,10 @@ async def hello(ctx):
     await ctx.send('die')
 
 @client.command()
+async def die(ctx):
+    await ctx.send('no')
+
+@client.command()
 async def frogfacts(ctx):
     await ctx.send('6 minutes remain.')
 
